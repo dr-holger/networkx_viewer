@@ -7,13 +7,13 @@
     <node id="Node2" />
     <node id="Node3" />
     <edge source="Node1" target="Node4">
-      <data key="d0">is part of</data>
+      <data key="d0">is connected to</data>
     </edge>
     <edge source="Node2" target="Node4">
-      <data key="d0">is part of</data>
+      <data key="d0">is connected to</data>
     </edge>
     <edge source="Node3" target="Node4">
-      <data key="d0">is part of</data>
+      <data key="d0">is connected to</data>
     </edge>
   </graph>
 </graphml>
