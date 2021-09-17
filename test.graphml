@@ -3,16 +3,16 @@
   <key id="d0" for="edge" attr.name="name" attr.type="string" />
   <graph edgedefault="directed">
     <node id="Node1" />
-    <node id="Node4" />
+    <node id="Node5" />
     <node id="Node2" />
     <node id="Node3" />
-    <edge source="Node1" target="Node4">
+    <edge source="Node1" target="Node5">
       <data key="d0">is connected to</data>
     </edge>
-    <edge source="Node2" target="Node4">
+    <edge source="Node2" target="Node5">
       <data key="d0">is connected to</data>
     </edge>
-    <edge source="Node3" target="Node4">
+    <edge source="Node3" target="Node5">
       <data key="d0">is connected to</data>
     </edge>
   </graph>
